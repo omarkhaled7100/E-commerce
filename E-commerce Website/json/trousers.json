@@ -1,0 +1,16 @@
+{
+    "response":[{
+        "name":"trouser 7",
+        "sale":30 ,
+        "img":"men-trouser/trousers-7.jpg"},
+    {
+        "name":"trouser 8",
+        "sale":50,
+        "img":"men-trouser/trousers-8.jfif"
+    },
+    {
+        "name":"trouser 9",
+        "sale":60 ,
+        "img":"men-trouser/trousers-9.jpg"
+    }] 
+}

@@ -1,0 +1,16 @@
+{
+    "response":[{
+        "name":"Shirt 7",
+        "sale":30 ,
+        "img":"shirts/shirts-7.jfif"},
+    {
+        "name":"Shirt 8",
+        "sale":50,
+        "img":"shirts/shirts-8.jpg"
+    },
+    {
+        "name":"Shirt 9",
+        "sale":60 ,
+        "img":"shirts/shirts-9.jfif"
+    }] 
+}

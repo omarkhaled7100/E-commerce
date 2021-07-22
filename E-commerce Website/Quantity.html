@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Quantity</title>
+</head>
+<body>
+    
+        <h2 id="choose-quant">
+            Choose the quantity you need
+        </h2>
+
+   <!-- <a href="MyCard.html"> <span>  Go to my card</span></a>-->
+   <button class="add-subtract" onclick="add()"> + </button>  
+<form action="thanks.php" method="get">
+
+    <div class="quandiv">
+
+        
+         <textarea name="quantity" id="noOfProduct"> 0 </textarea>
+    <input type="submit" id="quantity-submit" value="Add To Cart"onclick="addToCart()">
+        
+    </div>
+</form>
+
+<button onclick="subtract()" class="add-subtract"> - </button>
+
+    <script src="index.js"></script>
+</body>
+</html>

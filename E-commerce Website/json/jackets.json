@@ -1,0 +1,16 @@
+{
+    "response":[{
+        "name":"jacket 7",
+        "sale":30 ,
+        "img":"men-jackets/jacket-8.jfif"},
+    {
+        "name":"jacket 8",
+        "sale":30,
+        "img":"men-jackets/jacket-9.jfif"
+    },
+    {
+        "name":"jacket 9",
+        "sale":70 ,
+        "img":"men-jackets/jackt.jpg"
+    }] 
+}
